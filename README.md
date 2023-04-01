@@ -1,4 +1,3 @@
-# README.md
 ```yaml
 import React from 'react';
 
