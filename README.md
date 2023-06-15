@@ -6,7 +6,7 @@ class About extends Me {
     return {
       workplace: {
         company: 'IKY GROUP',
-        position: 'Web Developer'
+        position: 'Frontend Developer'
       }
     };
   }
