@@ -5,7 +5,7 @@ class About extends Me {
   getCurrentWorkplace() {
     return {
       workplace: {
-        company: 'IKY GROUP',
+        company: 'Hogarth Worldwide',
         position: 'Frontend Developer'
       }
     };
@@ -14,17 +14,17 @@ class About extends Me {
   getDailyKnowledge() {
     return [
       'React',
-      'Bootstrap',
+      'Nextjs',
       'Sass',
       'Redux',
-      'TailwindCss',
+      'Tailwind',
       'Javascript',
       'Nodejs'
     ];
   }
 
   getFutureGoal() {
-    return 'To contribute to open source.';
+    return '?';
   }
 
   render() {
