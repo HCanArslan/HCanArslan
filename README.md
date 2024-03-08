@@ -5,7 +5,7 @@ class About extends Me {
   getCurrentWorkplace() {
     return {
       workplace: {
-        company: 'Hogarth Worldwide',
+        company: 'Hogarth',
         position: 'Frontend Developer'
       }
     };
@@ -15,7 +15,6 @@ class About extends Me {
     return [
       'React',
       'Nextjs',
-      'Sass',
       'Redux',
       'Tailwind',
       'Javascript',
